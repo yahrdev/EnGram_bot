@@ -1,0 +1,49 @@
+<<<<<<< HEAD
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+Envenv/
+
+# Environment variables
+.env
+.test.env
+
+# Pytest cache
+.pytest_cache/
+.cache
+
+# Redis
+*.rdb
+*.log
+
+# VS Code settings
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+
+=======
+# Ignore virtual environment
+Engvenv/
+
+# Configuration files
+.env
+
+# Compiled Python files
+*.pyc
+__pycache__/
+
+# Editor configurations
+.idea/
+.vscode/
+*.DS_Store
+
+# Logs and temporary files
+*.log
+.cache/
+.pytest_cache/
+>>>>>>> 7cee5f3 (Initial commit)
